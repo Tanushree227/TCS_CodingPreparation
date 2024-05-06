@@ -1,5 +1,4 @@
 package Arrays;
-import java.util.*;
 public class Main {
   public static void swap(int[] arr, int a, int b, int k) {
     for (int i = 0; i < k; i++) {
