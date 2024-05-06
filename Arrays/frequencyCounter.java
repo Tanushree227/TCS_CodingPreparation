@@ -4,6 +4,7 @@ import java.util.*;
 
 public class frequencyCounter {
     public static void main(String[] args) {
+        @SuppressWarnings("resource")
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int arr[] = new int[n];
@@ -23,6 +24,16 @@ public class frequencyCounter {
             {
                 continue;
             }
+            int count = 1;
+            for(int j = i + 1; j < n; j++)
+            {
+                if(arr[i] == arr[j])
+                {
+                    visited[j] = true;
+                    count++;
+                }
+            }
+            System.out.println("Element " + arr[i] + " occurs " + count + " times.");
         }
     }
 }
