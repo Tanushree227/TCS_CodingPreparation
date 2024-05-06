@@ -31,10 +31,6 @@ package Arrays;
 //     }
 // }
 
-
-
-
-import java.io.*;
 class Test
 {
 static private int secondSmallest(int[] arr, int n)
