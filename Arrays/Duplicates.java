@@ -5,16 +5,17 @@ import java.util.Scanner;
 public class Duplicates {
    public static void main(String[] args)
    {
-    Scanner sc = new Scanner(System.in);
-    int n = sc.nextInt();
-    int arr[] = new int[n];
-    for (int i=0 ;i < n ;i++)  
-        arr[i] = sc.nextInt();
-    int k = removeDuplicates(arr);
-    System.out.println("The array after removing duplicates: ");
-    for(int i = 0; i < k; i++)
-    {
-        System.out.print(arr[i] + " ");
+    try (Scanner sc = new Scanner(System.in)) {
+        int n = sc.nextInt();
+        int arr[] = new int[n];
+        for (int i=0 ;i < n ;i++)  
+            arr[i] = sc.nextInt();
+        int k = removeDuplicates(arr);
+        System.out.println("The array after removing duplicates: ");
+        for(int i = 0; i < k; i++)
+        {
+            System.out.print(arr[i] + " ");
+        }
     }
    } 
    static int removeDuplicates(int[] arr)
