@@ -1,3 +1,4 @@
+package Strings;
 public class vowels {
   // Function to remove vowels from a string
   public static String RemoveVowels(String str) {

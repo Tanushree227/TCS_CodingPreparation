@@ -1,3 +1,4 @@
+package Strings;
 public class removeSpaces{
         static int removeSpaces(char[] str) {
       

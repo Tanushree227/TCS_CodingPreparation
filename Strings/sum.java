@@ -1,3 +1,4 @@
+package Strings;
 public class sum {
 
        static int findSum(String str) {
