@@ -1,0 +1,2 @@
+1. What is the difference between a Programming Language and a Scripting Language?
+Ans. 
