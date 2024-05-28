@@ -1,2 +1,10 @@
 1. What is the difference between a Programming Language and a Scripting Language?
 Ans. 
+Programming Languages:
+ i) A programming language is a formal language that is used to write instructions that can be executed by a computer.
+ ii) Source code is compiled into machine code before execution.
+ iii) Typically have a stricter, static type system.
+ iv) Tend to have more complex control structures, like loops and conditionals.
+ v) Tend to have more complex control structures, like loops and conditionals.
+ vi) Often used for developing large, complex applications.
+ vii) Examples: C++, Java, Python, Ruby, Swift.
