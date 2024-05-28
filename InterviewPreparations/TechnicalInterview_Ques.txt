@@ -8,3 +8,12 @@ Programming Languages:
  v) Tend to have more complex control structures, like loops and conditionals.
  vi) Often used for developing large, complex applications.
  vii) Examples: C++, Java, Python, Ruby, Swift.
+
+ Scripting Language:
+ i) A scripting language is a type of programming language that is used to write scripts, which are sets of instructions that are executed by an interpreter rather than being compiled into an executable program.
+ ii) Code is interpreted at runtime without a separate compilation step.
+ iii) Usually have a more flexible, dynamic type of system.
+ iv) Usually have simpler control structures that are optimized for ease of use.
+ v) Typically slower, as they are interpreted at runtime.
+ vi) Typically used for smaller, simpler tasks or automating system tasks.
+ vii) Examples: Bash, JavaScript, PHP, Perl,
