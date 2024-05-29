@@ -20,4 +20,10 @@ Programming Languages:
 
  2. What is an algorithm? Can you give an example of a simple algorithm?
  Ans. An algorithm is a set of well-defined steps or instructions that can be followed to solve a problem or accomplish a task. Algorithms are an essential part of computer science and are used in a wide range of applications, including data processing, machine learning, and artificial intelligence.
- 
+ An algorithm should have the following properties:
+
+i) Input: An algorithm should take one or more inputs as input.
+ii) Output: An algorithm should produce one or more outputs as a result of the input.
+iii) Definiteness: An algorithm should have a clear and precise set of steps that can be followed in a specific order.
+iv) Finiteness: An algorithm should have a finite number of steps and should terminate after a certain point.
+v) Effectiveness: An algorithm should be able to solve a problem or accomplish a task in a reasonable amount of time.
