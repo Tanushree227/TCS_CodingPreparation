@@ -19,3 +19,5 @@ Programming Languages:
  vii) Examples: Bash, JavaScript, PHP, Perl,
 
  2. What is an algorithm? Can you give an example of a simple algorithm?
+ Ans. An algorithm is a set of well-defined steps or instructions that can be followed to solve a problem or accomplish a task. Algorithms are an essential part of computer science and are used in a wide range of applications, including data processing, machine learning, and artificial intelligence.
+ 
