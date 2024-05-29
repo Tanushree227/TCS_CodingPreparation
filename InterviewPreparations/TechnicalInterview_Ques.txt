@@ -17,3 +17,5 @@ Programming Languages:
  v) Typically slower, as they are interpreted at runtime.
  vi) Typically used for smaller, simpler tasks or automating system tasks.
  vii) Examples: Bash, JavaScript, PHP, Perl,
+
+ 2. What is an algorithm? Can you give an example of a simple algorithm?
