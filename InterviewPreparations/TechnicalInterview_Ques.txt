@@ -47,3 +47,5 @@ iv) String: A string is a sequence of characters, such as a word or phrase.
 v) Array: An array is a data type that stores a collection of values of the same data type.
 vi) Struct: A struct is a data type that consists of a collection of related values.
 vii) Enum: An enum is a data type that defines a set of related values.
+
+Data types are used to ensure that a program uses data in a consistent and predictable way. They also help to prevent errors and ensure that the program is efficient and optimized for the specific needs of the application.
