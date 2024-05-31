@@ -38,3 +38,12 @@ This algorithm takes a list of numbers as input and returns the maximum value in
 
 3. What is a data type and how is it used in programming?
 Ans. In programming, a data type is a classification of data that defines the type of value that a variable can hold. Different programming languages have different data types, and the choice of data type affects how the data is stored, processed, and manipulated by the program.
+Some common data types include:
+
+i) Integer: An integer is a whole number without a decimal point. It can be positive, negative, or zero.
+ii) Floating point: A floating point number is a number with a decimal point. It can be positive, negative, or zero.
+iii) Boolean: A boolean value is a binary value that can be either true or false.
+iv) String: A string is a sequence of characters, such as a word or phrase.
+v) Array: An array is a data type that stores a collection of values of the same data type.
+vi) Struct: A struct is a data type that consists of a collection of related values.
+vii) Enum: An enum is a data type that defines a set of related values.
