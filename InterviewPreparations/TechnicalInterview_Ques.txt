@@ -37,3 +37,4 @@ Return "max" as the output.
 This algorithm takes a list of numbers as input and returns the maximum value in the list as output. It follows a clear and precise set of steps and terminates after a finite number of iterations. It is also effective, as it can find the maximum value in the list in a reasonable amount of time.
 
 3. What is a data type and how is it used in programming?
+Ans. In programming, a data type is a classification of data that defines the type of value that a variable can hold. Different programming languages have different data types, and the choice of data type affects how the data is stored, processed, and manipulated by the program.
