@@ -51,3 +51,5 @@ vii) Enum: An enum is a data type that defines a set of related values.
 Data types are used to ensure that a program uses data in a consistent and predictable way. They also help to prevent errors and ensure that the program is efficient and optimized for the specific needs of the application.
 
 4. What is a programming paradigm and can you name some examples?
+Ans. A programming paradigm is a style or approach to programming that is based on a specific set of principles and concepts. It defines how a program should be structured and how different elements of the program should interact with each other.
+
