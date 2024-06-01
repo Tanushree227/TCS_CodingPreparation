@@ -53,3 +53,9 @@ Data types are used to ensure that a program uses data in a consistent and predi
 4. What is a programming paradigm and can you name some examples?
 Ans. A programming paradigm is a style or approach to programming that is based on a specific set of principles and concepts. It defines how a program should be structured and how different elements of the program should interact with each other.
 
+There are several programming paradigms, including:
+
+i) Imperative programming: This paradigm is based on the idea of using statements to change the state of a program. It focuses on modifying variables and data structures and is based on the idea of a step-by-step set of instructions. Examples of imperative languages include C, C++, and Java.
+ii) Declarative programming: This paradigm is based on the idea of specifying the desired result of a program rather than the steps required to achieve it. It focuses on describing the problem to be solved rather than the solution itself. Examples of declarative languages include SQL, HTML, and XML.
+iii) Functional programming: This paradigm is based on the idea of treating computation as the evaluation of mathematical functions. It emphasizes the use of functions and immutable data, and is based on the idea of avoiding side effects and mutable states. Examples of functional languages include Haskell, Lisp, and ML.
+iv) Object-oriented programming: This paradigm is based on the idea of organizing code into objects that represent real-world entities and the actions that can be performed on them. It emphasizes the use of encapsulation, inheritance, and polymorphism. Examples of object-oriented languages include Java, Python, and C#.
