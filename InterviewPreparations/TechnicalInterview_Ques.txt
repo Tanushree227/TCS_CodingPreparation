@@ -61,3 +61,5 @@ iii) Functional programming: This paradigm is based on the idea of treating comp
 iv) Object-oriented programming: This paradigm is based on the idea of organizing code into objects that represent real-world entities and the actions that can be performed on them. It emphasizes the use of encapsulation, inheritance, and polymorphism. Examples of object-oriented languages include Java, Python, and C#.
 
 Each programming paradigm has its own set of characteristics and principles, and different languages are designed to support different paradigms. Many modern programming languages support multiple paradigms, allowing developers to choose the approach that best fits the problem at hand.
+
+4. What is a computer program, and how does it work?
