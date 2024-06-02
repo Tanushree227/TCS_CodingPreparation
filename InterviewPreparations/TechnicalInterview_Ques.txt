@@ -63,3 +63,4 @@ iv) Object-oriented programming: This paradigm is based on the idea of organizin
 Each programming paradigm has its own set of characteristics and principles, and different languages are designed to support different paradigms. Many modern programming languages support multiple paradigms, allowing developers to choose the approach that best fits the problem at hand.
 
 4. What is a computer program, and how does it work?
+Ans. A computer program is a set of instructions that a computer can execute to perform a specific task or solve a problem. A computer program is also referred to as software, and it is a key component of a computer system.
