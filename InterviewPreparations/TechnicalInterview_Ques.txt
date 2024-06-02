@@ -64,3 +64,4 @@ Each programming paradigm has its own set of characteristics and principles, and
 
 4. What is a computer program, and how does it work?
 Ans. A computer program is a set of instructions that a computer can execute to perform a specific task or solve a problem. A computer program is also referred to as software, and it is a key component of a computer system.
+Computer programs are written in programming languages, which are used to write instructions in a way that the computer can understand. There are many programming languages, each with its own syntax and rules for writing code.
