@@ -62,7 +62,7 @@ iv) Object-oriented programming: This paradigm is based on the idea of organizin
 
 Each programming paradigm has its own set of characteristics and principles, and different languages are designed to support different paradigms. Many modern programming languages support multiple paradigms, allowing developers to choose the approach that best fits the problem at hand.
 
-4. What is a computer program, and how does it work?
+5. What is a computer program, and how does it work?
 Ans. A computer program is a set of instructions that a computer can execute to perform a specific task or solve a problem. A computer program is also referred to as software, and it is a key component of a computer system.
 Computer programs are written in programming languages, which are used to write instructions in a way that the computer can understand. There are many programming languages, each with its own syntax and rules for writing code.
 To write a computer program, a developer writes a series of instructions in a text file using a text editor or Integrated Development Environment (IDE). The instructions are then saved as a file with a specific extension, such as .py for Python or .java for Java.
@@ -71,3 +71,5 @@ As the program is executed, the computer follows the instructions in the program
 
 Computer programs are an essential part of modern computing and are used in a wide range of applications, including data processing, web development, mobile apps, and artificial intelligence.
 
+6. What is a function in programming and how do you define and call it?
+Ans. 
