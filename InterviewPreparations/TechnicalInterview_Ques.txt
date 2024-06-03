@@ -80,3 +80,8 @@ Here is an example of how to define a function in Python:
 def greet(name): 
     print("Hello, " + name)
 This function takes a single parameter called "name" and prints a greeting to the screen.
+
+To call a function, you simply use its name followed by a set of parentheses. For example:
+
+greet("John")
+This will call the "greet" function and pass the string "John" as an argument to the function. The function will then execute the code in the function body, in this case, printing "Hello, John" to the screen.
