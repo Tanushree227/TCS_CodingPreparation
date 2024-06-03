@@ -72,4 +72,4 @@ As the program is executed, the computer follows the instructions in the program
 Computer programs are an essential part of modern computing and are used in a wide range of applications, including data processing, web development, mobile apps, and artificial intelligence.
 
 6. What is a function in programming and how do you define and call it?
-Ans. 
+Ans. In programming, a function is a block of code that performs a specific task and returns a result. Functions are a way to organize and reuse code, and they allow a program to be divided into smaller, modular units that can be tested and debugged independently.
