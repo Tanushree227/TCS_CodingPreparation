@@ -85,3 +85,12 @@ To call a function, you simply use its name followed by a set of parentheses. Fo
 
 greet("John")
 This will call the "greet" function and pass the string "John" as an argument to the function. The function will then execute the code in the function body, in this case, printing "Hello, John" to the screen.
+Functions can also return a result by using the "return" statement. For example:
+
+def add(x, y): 
+    return x + y
+This function takes two parameters, "x" and "y", and returns their sum. To call this function and get the result, you can use it in an expression:
+
+sum = add(2, 3) 
+print(sum) # Output: 5
+Functions are an important concept in programming and are used to modularize code and make it easier to write, test, and maintain.
