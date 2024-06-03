@@ -73,3 +73,10 @@ Computer programs are an essential part of modern computing and are used in a wi
 
 6. What is a function in programming and how do you define and call it?
 Ans. In programming, a function is a block of code that performs a specific task and returns a result. Functions are a way to organize and reuse code, and they allow a program to be divided into smaller, modular units that can be tested and debugged independently.
+To define a function in most programming languages, you need to specify the name of the function, the list of parameters it takes (if any), and the block of code that makes up the function body. 
+
+Here is an example of how to define a function in Python:
+
+def greet(name): 
+    print("Hello, " + name)
+This function takes a single parameter called "name" and prints a greeting to the screen.
