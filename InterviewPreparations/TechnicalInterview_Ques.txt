@@ -94,3 +94,6 @@ This function takes two parameters, "x" and "y", and returns their sum. To call 
 sum = add(2, 3) 
 print(sum) # Output: 5
 Functions are an important concept in programming and are used to modularize code and make it easier to write, test, and maintain.
+
+7. What is a loop in programming and can you give an example of how it is used?
+Ans. 
