@@ -97,3 +97,4 @@ Functions are an important concept in programming and are used to modularize cod
 
 7. What is a loop in programming and can you give an example of how it is used?
 Ans. In programming, a loop is a control structure that allows a block of code to be executed repeatedly. Loops are a way to iterate over a sequence of values or perform a task multiple times.
+There are three types of loops - for loops, while loops, and do-while loops. 
