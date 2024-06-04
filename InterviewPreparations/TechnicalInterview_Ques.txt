@@ -96,4 +96,4 @@ print(sum) # Output: 5
 Functions are an important concept in programming and are used to modularize code and make it easier to write, test, and maintain.
 
 7. What is a loop in programming and can you give an example of how it is used?
-Ans. 
+Ans. In programming, a loop is a control structure that allows a block of code to be executed repeatedly. Loops are a way to iterate over a sequence of values or perform a task multiple times.
