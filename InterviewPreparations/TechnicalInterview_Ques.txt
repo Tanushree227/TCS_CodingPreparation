@@ -102,3 +102,5 @@ i) A for loop is used to iterate over a sequence of values, such as a list or an
 ii) A while loop is used to execute a block of code repeatedly as long as a certain condition is true. The loop body is executed until the condition becomes false. 
 iii) A do-while loop is similar to a while loop, but the loop body is executed at least once before the condition is checked 
 Loops are an important concept in programming and are used to perform tasks repeatedly or iterate over a sequence of values. They are a useful way to simplify code and avoid the need to write repetitive code blocks.
+
+8. What is the Difference between call by value and call by reference?
