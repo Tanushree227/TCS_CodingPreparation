@@ -104,3 +104,4 @@ iii) A do-while loop is similar to a while loop, but the loop body is executed a
 Loops are an important concept in programming and are used to perform tasks repeatedly or iterate over a sequence of values. They are a useful way to simplify code and avoid the need to write repetitive code blocks.
 
 8. What is the Difference between call by value and call by reference?
+Ans. Call by value and call by reference are two ways in which a function can be passed arguments in some programming languages. 
