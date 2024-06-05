@@ -105,3 +105,9 @@ Loops are an important concept in programming and are used to perform tasks repe
 
 8. What is the Difference between call by value and call by reference?
 Ans. Call by value and call by reference are two ways in which a function can be passed arguments in some programming languages. 
+Call by value is a method of passing arguments to a function in programming, where the value of the argument is copied and passed to the function, rather than the actual variable or object being passed.  
+
+When a function is called with Call by value, a new memory location is created to store the copied value, which is then used by the function for its computations.
+Any changes made to the copied value within the function will not affect the original variable or object in the calling code, as they are separate entities.
+This approach is commonly used in C/C++, Java, and Python programming languages.
+
