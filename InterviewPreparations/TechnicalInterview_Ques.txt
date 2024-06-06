@@ -119,3 +119,9 @@ This approach is commonly used in programming languages like C++, and Python by 
 
 9. Why do we use R?
 Ans. R is a programming language and software environment for statistical computing and data analysis. It is widely used in various fields, including finance, healthcare, marketing, and social sciences, and it is particularly popular among data scientists and statisticians.
+There are several reasons why R is used:
+
+i. R has a large and active community of users and developers, who contribute a wide range of packages and tools to the R ecosystem. This makes it easy to find resources and support for using R.
+ii. R has a rich set of statistical and data analysis tools, including functions for statistical modeling, data visualization, and machine learning. This makes it a powerful tool for data analysis and statistical modeling.
+iii. R has a flexible and extensible architecture, which allows users to write their own functions and packages and to integrate with other tools and platforms. This makes it easy to customize and extend R to meet specific needs.
+iv. R is open-source and free to use, which makes it accessible to a wide range of users and organizations.
