@@ -117,4 +117,5 @@ When a function is called with the call by reference, any changes made to the pa
 This approach can be useful when working with large objects or when we want to modify the original value in the calling code. However, it requires careful management of memory and can be more error-prone than (Call by Value).
 This approach is commonly used in programming languages like C++, and Python by using pointers or references to achieve Call by reference.
 
-9. 
+9. Why do we use R?
+Ans. R is a programming language and software environment for statistical computing and data analysis. It is widely used in various fields, including finance, healthcare, marketing, and social sciences, and it is particularly popular among data scientists and statisticians.
