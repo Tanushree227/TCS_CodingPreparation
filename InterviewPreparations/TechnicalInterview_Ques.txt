@@ -128,3 +128,4 @@ iv. R is open-source and free to use, which makes it accessible to a wide range 
 
 10. What is a stack, and how does it work?
 Ans. A stack is a linear data structure that follows the last-in, first-out (LIFO) principle. This means that the last element added to the stack is the first one to be removed.
+A stack representation is a way of visualizing how data is stored and retrieved in a Last-In-First-Out (LIFO) data structure. In a stack, data is added and removed from the top of the stack, and a stack representation shows how the elements are stacked on top of each other as shown in the above image. This is commonly used in computer science and programming to help understand how data is organized and accessed in memory.
