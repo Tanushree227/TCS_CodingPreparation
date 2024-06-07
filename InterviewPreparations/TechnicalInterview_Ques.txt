@@ -127,3 +127,4 @@ iii. R has a flexible and extensible architecture, which allows users to write t
 iv. R is open-source and free to use, which makes it accessible to a wide range of users and organizations.
 
 10. What is a stack, and how does it work?
+Ans. A stack is a linear data structure that follows the last-in, first-out (LIFO) principle. This means that the last element added to the stack is the first one to be removed.
