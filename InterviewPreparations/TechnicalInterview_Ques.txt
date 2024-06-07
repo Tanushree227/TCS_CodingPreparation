@@ -140,3 +140,5 @@ The time and space complexity of the stack operations are:
 
 i. Time Complexity: O(1) - Constant time, which means it takes constant time to execute push, pop, peek, and check if the stack is empty.
 ii. Space Complexity: O(1) - Constant space, as the above-listed operations require only a fixed amount of memory.
+
+Stacks are used in various applications, such as evaluating expressions, reversing a string, and implementing undo/redo functions. They are also commonly used in programming languages as a means of storing and accessing local variables during function calls.
