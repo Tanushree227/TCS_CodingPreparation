@@ -135,3 +135,8 @@ i. Push: This operation adds an element to the top of the stack.
 ii. Pop: This operation removes the top element from the stack and returns it.
 iii. Peek: This operation returns the top element of the stack without removing it.
 iv. isEmpty: This operation returns true if the stack is empty, and false otherwise.
+
+The time and space complexity of the stack operations are:
+
+i. Time Complexity: O(1) - Constant time, which means it takes constant time to execute push, pop, peek, and check if the stack is empty.
+ii. Space Complexity: O(1) - Constant space, as the above-listed operations require only a fixed amount of memory.
