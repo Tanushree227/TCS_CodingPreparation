@@ -125,3 +125,5 @@ i. R has a large and active community of users and developers, who contribute a 
 ii. R has a rich set of statistical and data analysis tools, including functions for statistical modeling, data visualization, and machine learning. This makes it a powerful tool for data analysis and statistical modeling.
 iii. R has a flexible and extensible architecture, which allows users to write their own functions and packages and to integrate with other tools and platforms. This makes it easy to customize and extend R to meet specific needs.
 iv. R is open-source and free to use, which makes it accessible to a wide range of users and organizations.
+
+10. What is a stack, and how does it work?
