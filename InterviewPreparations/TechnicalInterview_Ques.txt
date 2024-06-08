@@ -146,3 +146,4 @@ Stacks are used in various applications, such as evaluating expressions, reversi
 11. What is an array in programming, and how is it used?
 Ans. An array is a data structure in programming that stores a collection of values of the same data type. An array is an ordered sequence of elements that can be accessed by their index, which is the position of the element in the array.
 Arrays are useful for storing and manipulating large sets of data, as they allow you to store multiple values in a single data structure and access them efficiently. They are also useful for storing data that needs to be processed in a specific order.
+Using arrays can prevent confusion when dealing with large sets of data by storing them under a single variable name. Additionally, array algorithms such as bubble sort, selection sort, and insertion sort can assist in organizing data elements in a clear and efficient manner.
