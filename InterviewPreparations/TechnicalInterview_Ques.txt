@@ -144,3 +144,4 @@ ii. Space Complexity: O(1) - Constant space, as the above-listed operations requ
 Stacks are used in various applications, such as evaluating expressions, reversing a string, and implementing undo/redo functions. They are also commonly used in programming languages as a means of storing and accessing local variables during function calls.
 
 11. What is an array in programming, and how is it used?
+Ans. An array is a data structure in programming that stores a collection of values of the same data type. An array is an ordered sequence of elements that can be accessed by their index, which is the position of the element in the array.
