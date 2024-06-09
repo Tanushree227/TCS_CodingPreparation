@@ -149,3 +149,10 @@ Arrays are useful for storing and manipulating large sets of data, as they allow
 Using arrays can prevent confusion when dealing with large sets of data by storing them under a single variable name. Additionally, array algorithms such as bubble sort, selection sort, and insertion sort can assist in organizing data elements in a clear and efficient manner.
 
 12. What happens after you enter the URL of a website?
+Ans. When you enter the URL of a website into your web browser, the following sequence of events occurs:
+
+i. The web browser sends a request to the domain name system (DNS) server to resolve the domain name to an IP address. The DNS server is a network service that translates domain names into IP addresses, which are used to locate and communicate with servers on the internet.
+ii. The web browser sends an HTTP request to the web server associated with the IP address of the domain name. The HTTP request includes the URL of the webpage, as well as other information such as the type of request (e.g., GET, POST), the browser being used, and any cookies that may be associated with the request.
+iii. The web server processes the HTTP request and sends an HTTP response back to the web browser. The HTTP response includes the requested webpage, as well as other information such as the status of the request, the type and size of the content, and any cookies that may be associated with the response.
+iv. The web browser receives the HTTP response and processes the content of the response, which may include rendering HTML, CSS, and JavaScript code, downloading images and making additional requests for resources such as fonts and scripts.
+v. The web browser displays the webpage to the user.
