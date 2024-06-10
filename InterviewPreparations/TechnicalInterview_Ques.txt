@@ -158,3 +158,4 @@ iv. The web browser receives the HTTP response and processes the content of the 
 v. The web browser displays the webpage to the user.
 
 13. What is a software development life cycle and what are the different phases it consists of?
+Ans. The software development life cycle (SDLC) is the process of developing a software system, from conception to maintenance. It consists of a series of steps or phases that are followed to ensure that the software is developed in a systematic and structured manner.
