@@ -159,3 +159,11 @@ v. The web browser displays the webpage to the user.
 
 13. What is a software development life cycle and what are the different phases it consists of?
 Ans. The software development life cycle (SDLC) is the process of developing a software system, from conception to maintenance. It consists of a series of steps or phases that are followed to ensure that the software is developed in a systematic and structured manner.
+The different phases of the SDLC may vary depending on the specific methodology being used, but most SDLC models include the following phases:
+i. Planning: In this phase, the goals and objectives of the software are defined, and a high-level plan is developed for how to achieve them. This may include identifying the target audience, determining the scope of the project, and establishing timelines and budgets.
+ii. Analysis: In this phase, the requirements for the software are gathered and analyzed. This may include conducting user interviews and focus groups, creating user stories and use cases, and defining the functional and non-functional requirements of the system.
+iii. Design: In this phase, the overall architecture and design of the software are developed. This may include creating a detailed design document, developing wireframes and prototypes, and deciding on the technologies and frameworks to be used.
+iv. Implementation: In this phase, the code for the software is written and tested. This may include writing and debugging code, integrating different modules and components, and performing unit and integration testing.
+v. Testing: In this phase, the software is thoroughly tested to ensure that it meets the requirements and works as expected. This may include creating test plans, executing different types of testing (e.g. unit testing, integration testing, system testing), and identifying and fixing any issues that are discovered.
+vi. Deployment: In this phase, the software is deployed to a production environment and made available to users. This may include installing and configuring the software, performing final testing, and releasing updates and patches as needed.
+vii. Maintenance: In this phase, the software is monitored and maintained over time to ensure that it continues to function as expected. This may include fixing bugs, adding new features, and updating the software to meet changing user needs.
