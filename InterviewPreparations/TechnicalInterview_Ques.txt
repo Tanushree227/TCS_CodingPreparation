@@ -156,3 +156,5 @@ ii. The web browser sends an HTTP request to the web server associated with the 
 iii. The web server processes the HTTP request and sends an HTTP response back to the web browser. The HTTP response includes the requested webpage, as well as other information such as the status of the request, the type and size of the content, and any cookies that may be associated with the response.
 iv. The web browser receives the HTTP response and processes the content of the response, which may include rendering HTML, CSS, and JavaScript code, downloading images and making additional requests for resources such as fonts and scripts.
 v. The web browser displays the webpage to the user.
+
+13. What is a software development life cycle and what are the different phases it consists of?
