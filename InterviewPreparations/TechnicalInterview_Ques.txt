@@ -167,3 +167,5 @@ iv. Implementation: In this phase, the code for the software is written and test
 v. Testing: In this phase, the software is thoroughly tested to ensure that it meets the requirements and works as expected. This may include creating test plans, executing different types of testing (e.g. unit testing, integration testing, system testing), and identifying and fixing any issues that are discovered.
 vi. Deployment: In this phase, the software is deployed to a production environment and made available to users. This may include installing and configuring the software, performing final testing, and releasing updates and patches as needed.
 vii. Maintenance: In this phase, the software is monitored and maintained over time to ensure that it continues to function as expected. This may include fixing bugs, adding new features, and updating the software to meet changing user needs.
+
+14. What is a bug in the software and how do you go about fixing it?
