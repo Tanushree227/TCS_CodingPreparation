@@ -169,3 +169,5 @@ vi. Deployment: In this phase, the software is deployed to a production environm
 vii. Maintenance: In this phase, the software is monitored and maintained over time to ensure that it continues to function as expected. This may include fixing bugs, adding new features, and updating the software to meet changing user needs.
 
 14. What is a bug in the software and how do you go about fixing it?
+Ans. A bug is an error, flaw, or failure in the software that causes it to behave in unexpected or unintended ways. Bugs can be caused by a variety of factors, including coding errors, design mistakes, and hardware or software incompatibilities.
+
