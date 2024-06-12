@@ -183,3 +183,11 @@ Fixing a bug can be a time-consuming process, and it is important to follow a sy
 
 15. What is a software testing technique and how do you go about testing software?
 Ans. Software testing is the process of evaluating a software system or component to determine whether it meets the specified requirements and works as intended. Testing is an important step in the software development process, as it helps to ensure the quality and reliability of the software.
+There are many different software testing techniques, and the choice of technique depends on the specific needs of the project and the type of software being tested. Some common testing techniques include:
+
+i. Unit testing: Unit testing is a technique that involves testing individual units or components of a software system. It is typically done by the development team as part of the coding process.
+ii. Integration testing: Integration testing is a technique that involves testing the integration of different components or modules of a software system. It is typically done after unit testing to ensure that the components work together as intended.
+iii. System testing: System testing is a technique that involves testing the entire software system as a whole. It is typically done after integration testing to ensure that the system meets the specified requirements and works as intended.
+iv. Acceptance testing: Acceptance testing is a technique that involves testing the software from the perspective of the end user. It is typically done by the development team or by a separate testing team to ensure that the software is user-friendly and meets the needs of the users.
+
+
