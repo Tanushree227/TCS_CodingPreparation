@@ -180,3 +180,6 @@ iv. Test the fix: Once the bug has been fixed, it is important to test the code 
 v. Deploy the fix: After the bug has been fixed and tested, the next step is to deploy the fix to the production environment. This may involve releasing a new version of the software or applying a patch to the existing version.
 
 Fixing a bug can be a time-consuming process, and it is important to follow a systematic and structured approach to ensure that the issue is resolved in a reliable and efficient manner.
+
+15. What is a software testing technique and how do you go about testing software?
+Ans. 
