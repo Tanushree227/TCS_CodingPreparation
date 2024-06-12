@@ -182,4 +182,4 @@ v. Deploy the fix: After the bug has been fixed and tested, the next step is to 
 Fixing a bug can be a time-consuming process, and it is important to follow a systematic and structured approach to ensure that the issue is resolved in a reliable and efficient manner.
 
 15. What is a software testing technique and how do you go about testing software?
-Ans. 
+Ans. Software testing is the process of evaluating a software system or component to determine whether it meets the specified requirements and works as intended. Testing is an important step in the software development process, as it helps to ensure the quality and reliability of the software.
