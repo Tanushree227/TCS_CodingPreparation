@@ -191,3 +191,5 @@ iii. System testing: System testing is a technique that involves testing the ent
 iv. Acceptance testing: Acceptance testing is a technique that involves testing the software from the perspective of the end user. It is typically done by the development team or by a separate testing team to ensure that the software is user-friendly and meets the needs of the users.
 
 To test software, you need to plan the testing process, design test cases, execute the tests, and analyze the results. Testing involves both manual testing (where a tester manually performs test cases) and automated testing (where test cases are executed automatically using tools and scripts).
+
+16. 
