@@ -192,4 +192,5 @@ iv. Acceptance testing: Acceptance testing is a technique that involves testing 
 
 To test software, you need to plan the testing process, design test cases, execute the tests, and analyze the results. Testing involves both manual testing (where a tester manually performs test cases) and automated testing (where test cases are executed automatically using tools and scripts).
 
-16. 
+16. What are some common security vulnerabilities in software and how do you prevent them?
+Ans. Vulnerabilities are weaknesses or flaws in software systems, networks, or devices that can be exploited by attackers to gain unauthorized access, steal sensitive data, disrupt operations, or cause other types of harm. They can occur due to design flaws, programming errors, configuration mistakes, or other factors, and can be exploited by cybercriminals using a variety of techniques, such as malware, social engineering, or brute force attacks. The consequences of vulnerabilities can range from minor disruptions to severe data breaches, financial losses, or even physical damage in some cases.
