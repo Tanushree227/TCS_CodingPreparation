@@ -213,3 +213,5 @@ There are three types of design patterns - creational, structural, and behaviora
 i. Creational patterns deal with object creation mechanisms and aim to create objects in a manner suitable to the situation. Examples of creational patterns include the factory pattern and the builder pattern.
 ii. Structural patterns deal with object composition, creating relationships between objects to form larger structures. Examples of structural patterns include the adapter pattern and the decorator pattern.
 iii. Behavioral patterns focus on communication between objects, what goes on between objects, and the flow of control of an application. Examples of behavioral patterns include the observer pattern and the template method pattern.
+
+Design patterns are useful for helping developers to solve common design problems in a consistent and efficient manner. They provide a common vocabulary and set of best practices that can be applied to a wide range of design situations
