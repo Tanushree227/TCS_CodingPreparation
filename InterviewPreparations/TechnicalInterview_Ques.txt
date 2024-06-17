@@ -204,3 +204,6 @@ iv. Cross-site request forgery (CSRF): CSRF vulnerabilities occur when the softw
 v. Insecure communications: Insecure communication vulnerabilities occur when the software does not use secure communication protocols, such as HTTPS, allowing attackers to intercept and manipulate data transmitted between the client and the server. To prevent insecure communication vulnerabilities, you should use secure communication protocols and technologies, such as HTTPS, SSL, and TLS.
 
 To prevent these vulnerabilities, you should use input validation techniques, parameterized queries and prepared statements, XSS prevention libraries, CSRF prevention techniques and libraries, and secure communication protocols and technologies.
+
+17. What is a software design pattern and can you name some examples?
+Ans. 
