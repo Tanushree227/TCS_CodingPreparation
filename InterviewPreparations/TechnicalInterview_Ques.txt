@@ -215,3 +215,12 @@ ii. Structural patterns deal with object composition, creating relationships bet
 iii. Behavioral patterns focus on communication between objects, what goes on between objects, and the flow of control of an application. Examples of behavioral patterns include the observer pattern and the template method pattern.
 
 Design patterns are useful for helping developers to solve common design problems in a consistent and efficient manner. They provide a common vocabulary and set of best practices that can be applied to a wide range of design situations
+
+Here are a few examples of common design patterns:
+
+i. Singleton pattern: This pattern ensures that a class has only one instance and provides a global access point to it.
+ii. Factory pattern: This pattern defines an interface for creating an object, but lets subclasses decide which class to instantiate.
+iii. Observer pattern: This pattern defines a one-to-many dependency between objects so that when one object changes state, all of its dependents are notified and updated automatically.
+iv. Decorator pattern: This pattern dynamically adds behavior to an object by wrapping it in an object of a decorator class.
+v. Command pattern: This pattern encapsulates a request as an object, allowing for the parameterization of clients with different requests, and the separation of the request from the object that handles it.
+When working with common design patterns in software development, it is important for developers to not only understand the concepts behind the patterns but also be able to implement them effectively. One way to do this is by studying examples with sample code.
