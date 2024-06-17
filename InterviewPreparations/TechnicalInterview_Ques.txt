@@ -206,4 +206,4 @@ v. Insecure communications: Insecure communication vulnerabilities occur when th
 To prevent these vulnerabilities, you should use input validation techniques, parameterized queries and prepared statements, XSS prevention libraries, CSRF prevention techniques and libraries, and secure communication protocols and technologies.
 
 17. What is a software design pattern and can you name some examples?
-Ans. 
+Ans. A software design pattern is a general, reusable solution to a common software design problem. Design patterns are not specific to any programming language and can be implemented in any language. They are meant to be a high-level guide to help solve design problems and are not a specific set of instructions for how to implement a solution.
