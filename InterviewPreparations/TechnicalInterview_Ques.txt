@@ -207,3 +207,9 @@ To prevent these vulnerabilities, you should use input validation techniques, pa
 
 17. What is a software design pattern and can you name some examples?
 Ans. A software design pattern is a general, reusable solution to a common software design problem. Design patterns are not specific to any programming language and can be implemented in any language. They are meant to be a high-level guide to help solve design problems and are not a specific set of instructions for how to implement a solution.
+
+There are three types of design patterns - creational, structural, and behavioral patterns.
+
+i. Creational patterns deal with object creation mechanisms and aim to create objects in a manner suitable to the situation. Examples of creational patterns include the factory pattern and the builder pattern.
+ii. Structural patterns deal with object composition, creating relationships between objects to form larger structures. Examples of structural patterns include the adapter pattern and the decorator pattern.
+iii. Behavioral patterns focus on communication between objects, what goes on between objects, and the flow of control of an application. Examples of behavioral patterns include the observer pattern and the template method pattern.
