@@ -224,3 +224,7 @@ iii. Observer pattern: This pattern defines a one-to-many dependency between obj
 iv. Decorator pattern: This pattern dynamically adds behavior to an object by wrapping it in an object of a decorator class.
 v. Command pattern: This pattern encapsulates a request as an object, allowing for the parameterization of clients with different requests, and the separation of the request from the object that handles it.
 When working with common design patterns in software development, it is important for developers to not only understand the concepts behind the patterns but also be able to implement them effectively. One way to do this is by studying examples with sample code.
+
+To fully grasp a design pattern, developers should take the time to study a concrete example that demonstrates how the pattern works in practice. This means reading through the code, understanding how the different components of the pattern fit together and experimenting with the example to see how it behaves in different scenarios.
+
+By doing this, developers can build a deeper understanding of the pattern and its practical applications, which will help them implement it more effectively in their own code. They can also identify potential pitfalls or edge cases that may not be immediately apparent from just reading about the pattern in theory
