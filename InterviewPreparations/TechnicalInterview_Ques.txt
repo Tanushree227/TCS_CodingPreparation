@@ -230,4 +230,4 @@ To fully grasp a design pattern, developers should take the time to study a conc
 By doing this, developers can build a deeper understanding of the pattern and its practical applications, which will help them implement it more effectively in their own code. They can also identify potential pitfalls or edge cases that may not be immediately apparent from just reading about the pattern in theory
 
 18. What is software architecture and how do you design and implement one?
-Ans. 
+Ans. Software architecture is the high-level structure of a software system, and it defines the overall design and organization of the system. It specifies the components and their relationships, the patterns and styles that are used to connect the components, and the constraints and considerations that guide the design.
