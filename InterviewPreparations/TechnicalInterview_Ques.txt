@@ -228,3 +228,6 @@ When working with common design patterns in software development, it is importan
 To fully grasp a design pattern, developers should take the time to study a concrete example that demonstrates how the pattern works in practice. This means reading through the code, understanding how the different components of the pattern fit together and experimenting with the example to see how it behaves in different scenarios.
 
 By doing this, developers can build a deeper understanding of the pattern and its practical applications, which will help them implement it more effectively in their own code. They can also identify potential pitfalls or edge cases that may not be immediately apparent from just reading about the pattern in theory
+
+18. What is software architecture and how do you design and implement one?
+Ans. 
