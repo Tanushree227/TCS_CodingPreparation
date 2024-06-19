@@ -231,3 +231,4 @@ By doing this, developers can build a deeper understanding of the pattern and it
 
 18. What is software architecture and how do you design and implement one?
 Ans. Software architecture is the high-level structure of a software system, and it defines the overall design and organization of the system. It specifies the components and their relationships, the patterns and styles that are used to connect the components, and the constraints and considerations that guide the design.
+Software architecture is an important part of the software development process, as it provides a blueprint for the system and helps to ensure that the system is scalable, maintainable, and flexible.
