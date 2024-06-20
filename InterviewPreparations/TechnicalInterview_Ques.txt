@@ -239,3 +239,8 @@ Once the software architecture is designed, the next step is to implement it. Th
 To implement a software architecture, you need to use a programming language and a set of tools and frameworks that are appropriate for the system. You also need to consider the deployment and operational requirements of the system, such as scalability, reliability, and security.
 
 19. How do you optimize the performance of a database?
+Ans. There are several techniques that you can use to optimize the performance of a database:
+
+i. Indexing: Indexing is the process of creating a data structure that allows the database to access and retrieve data quickly thereby avoiding the need for searching and matching every row in the database. Indexes can be created on specific columns in a table to improve the performance of queries that filter or sort data based on those columns.
+ii. Partitioning: Partitioning is the process of dividing a table into smaller, more manageable pieces, called partitions. Partitioning can improve the performance of queries that access large amounts of data, as it allows the database to access the data in smaller, more efficient chunks.
+Partitioning can be done in two ways - vertical and horizontal. Vertical partitioning involves splitting a table into smaller parts based on columns, while horizontal partitioning involves splitting a table into smaller parts based on rows. Vertical partitioning can be useful for tables with many columns that are rarely accessed together, while horizontal partitioning can be useful for tables with a large number of rows that can be grouped based on specific criteria, such as date ranges or geographic regions.
