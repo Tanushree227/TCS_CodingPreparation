@@ -237,3 +237,5 @@ To design a software architecture, you need to understand the requirements of th
 Once the software architecture is designed, the next step is to implement it. This involves implementing the components and their relationships and testing the system to ensure that it meets the specified requirements and works as intended.
 
 To implement a software architecture, you need to use a programming language and a set of tools and frameworks that are appropriate for the system. You also need to consider the deployment and operational requirements of the system, such as scalability, reliability, and security.
+
+19. How do you optimize the performance of a database?
