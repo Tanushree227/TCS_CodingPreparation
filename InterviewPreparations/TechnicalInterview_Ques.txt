@@ -263,4 +263,10 @@ iv. Load Testing Tools: These tools can simulate heavy loads on the database to 
 v. By using these techniques, database administrators can identify performance issues and make informed decisions on how to optimize the database to ensure it runs smoothly and efficiently.
 
 20. How do you approach solving a complex programming problem?
-Ans. 
+Ans. Solving a complex programming problem can be a challenging and time-consuming task, but there are a few steps you can take to approach the problem in a systematic and organized way:
+
+i. Understand the problem: The first step in solving a complex programming problem is to understand the problem. This involves reading the problem statement carefully and clarifying any ambiguities or uncertainties. You should also understand the inputs, outputs, and any constraints or assumptions that apply to the problem.
+ii. Break down the problem: Once you understand the problem, the next step is to break it down into smaller, more manageable pieces. This involves identifying the subproblems or subgoals that need to be solved in order to solve the main problem. Breaking down the problem can help you to understand the problem better and make it easier to solve.
+iii. Develop a plan: After breaking down the problem, the next step is to develop a plan for solving the problem. This involves identifying the steps or actions that you need to take to solve the problem and organizing them in a logical sequence. Having a clear plan can help you to stay focused and make progress on the problem.
+iv. Implement the plan: With a clear plan in place, the next step is to implement the plan. This involves writing the code that solves the problem and testing it to ensure that it works as intended.
+v. Refine the solution: After implementing the initial solution, you may need to refine it to make it more efficient, robust, or scalable. This involves optimizing the code, testing it, and making any necessary improvements.
