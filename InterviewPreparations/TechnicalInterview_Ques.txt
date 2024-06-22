@@ -261,3 +261,6 @@ ii. Resource Monitoring Tools: These tools can help track resource usages, such 
 iii. Database Administration Tools: These help monitor and tune database performance, including configuration management, query analysis, and schema optimization. Examples include pgAdmin, Oracle Enterprise Manager, and SQL Server Management Studio.
 iv. Load Testing Tools: These tools can simulate heavy loads on the database to measure its performance and identify bottlenecks. Examples include Apache JMeter, LoadRunner, and Gatling.
 v. By using these techniques, database administrators can identify performance issues and make informed decisions on how to optimize the database to ensure it runs smoothly and efficiently.
+
+20. How do you approach solving a complex programming problem?
+Ans. 
