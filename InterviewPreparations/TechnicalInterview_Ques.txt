@@ -274,4 +274,4 @@ v. Refine the solution: After implementing the initial solution, you may need to
 In summary, solving a complex programming problem involves understanding the problem, breaking it down into smaller pieces, developing a plan, implementing the plan, and refining the solution. It can be a challenging and time-consuming task, but following a systematic and organized approach can help you to solve the problem effectively.
 
 21. Can you explain the difference between a client-server architecture and a peer-to-peer architecture?
-Ans. 
+Ans. Client-server architecture: In a client-server architecture, a central server provides services to multiple clients over a network. The clients send requests to the server, and the server processes the requests and sends back the results. The clients do not communicate directly with each other, and all communication goes through the server.
