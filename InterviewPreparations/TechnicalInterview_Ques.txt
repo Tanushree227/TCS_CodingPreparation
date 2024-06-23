@@ -288,3 +288,13 @@ Performance: The performance of the system may be limited by the capacity of the
 Peer-to-Peer architecture: Peer-to-peer architecture is a network model in which devices or nodes communicate with each other directly without the need for a centralized server. In this model, each node can act as both a client and a server, allowing data and resources to be shared directly between nodes as shown in the image below:
 
 Peer-to-peer architecture is commonly used in applications such as file sharing, messaging, and online gaming. Unlike the client-server architecture, peer-to-peer networks can be more decentralized and less vulnerable to server failures or attacks.
+A P2P architecture is a decentralized architecture, and it has several advantages, such as:
+
+Decentralization: The lack of a central server makes the system more resilient and less vulnerable to failure.
+Resource sharing: The nodes in the network can share resources and distribute the workload among themselves.
+Privacy: The nodes in the network can communicate directly with each other, which can enhance privacy and security.
+However, a P2P architecture also has some disadvantages, such as:
+
+Complexity: The complexity of the system may be increased due to the lack of a central authority or server.
+Performance: The performance of the system may be limited by the capacity of the individual nodes in the network.
+Security: The security of the system may be compromised due to the lack of a central authority or server
