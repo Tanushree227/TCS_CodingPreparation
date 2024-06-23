@@ -284,3 +284,7 @@ However, a client-server architecture also has some disadvantages, such as:
 
 Dependence on the server: If the server goes down or becomes unavailable, the clients cannot communicate or access the services.
 Performance: The performance of the system may be limited by the capacity of the server.
+
+Peer-to-Peer architecture: Peer-to-peer architecture is a network model in which devices or nodes communicate with each other directly without the need for a centralized server. In this model, each node can act as both a client and a server, allowing data and resources to be shared directly between nodes as shown in the image below:
+
+Peer-to-peer architecture is commonly used in applications such as file sharing, messaging, and online gaming. Unlike the client-server architecture, peer-to-peer networks can be more decentralized and less vulnerable to server failures or attacks.
