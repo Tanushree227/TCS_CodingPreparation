@@ -275,3 +275,12 @@ In summary, solving a complex programming problem involves understanding the pro
 
 21. Can you explain the difference between a client-server architecture and a peer-to-peer architecture?
 Ans. Client-server architecture: In a client-server architecture, a central server provides services to multiple clients over a network. The clients send requests to the server, and the server processes the requests and sends back the results. The clients do not communicate directly with each other, and all communication goes through the server.
+A client-server architecture is a centralized architecture, and it has several advantages, such as:
+
+Scalability: The server can be scaled up or down as needed to handle more or fewer clients.
+Security: The server can be secured to protect against unauthorized access and ensure data integrity.
+Maintenance: The server can be maintained and updated centrally, which makes it easier to manage.
+However, a client-server architecture also has some disadvantages, such as:
+
+Dependence on the server: If the server goes down or becomes unavailable, the clients cannot communicate or access the services.
+Performance: The performance of the system may be limited by the capacity of the server.
