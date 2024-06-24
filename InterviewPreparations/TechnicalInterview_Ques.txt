@@ -297,4 +297,7 @@ However, a P2P architecture also has some disadvantages, such as:
 
 Complexity: The complexity of the system may be increased due to the lack of a central authority or server.
 Performance: The performance of the system may be limited by the capacity of the individual nodes in the network.
-Security: The security of the system may be compromised due to the lack of a central authority or server
+Security: The security of the system may be compromised due to the lack of a central authority or server.
+
+22. How do you design and implement a scalable system?
+Ans. 
