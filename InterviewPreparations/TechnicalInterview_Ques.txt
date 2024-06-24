@@ -300,4 +300,4 @@ Performance: The performance of the system may be limited by the capacity of the
 Security: The security of the system may be compromised due to the lack of a central authority or server.
 
 22. How do you design and implement a scalable system?
-Ans. 
+Ans. Designing and implementing a scalable system involves considering several factors that affect the system's ability to handle increasing workloads and user demands. Here are some steps you can follow to design and implement a scalable system:
