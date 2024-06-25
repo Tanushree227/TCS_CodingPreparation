@@ -311,3 +311,8 @@ vi. Monitor and optimize: Finally, it is important to continuously monitor and o
 23. What is cloud computing and how does it differ from traditional IT infrastructure?
 Ans. Cloud computing is a model of delivering computing resources and services over the internet, rather than using local servers or personal devices. Cloud computing allows users to access and use computing resources on demand, without the need to purchase and maintain expensive hardware and software.
 Cloud computing architecture refers to the design of the various components and layers that make up a cloud computing system. It typically includes several layers such as the physical layer, infrastructure layer, platform layer, and application layer, each of which provides a different set of services to users.
+At the physical layer, cloud computing architecture includes the data centers, servers, storage devices, and networking equipment that form the backbone of the cloud infrastructure. The infrastructure layer provides the virtualization, automation, and orchestration capabilities that enable resources to be provisioned and managed efficiently.
+
+The platform layer includes the software and tools that developers use to build and deploy applications on the cloud infrastructure. This layer provides a range of services, such as application hosting, database management, and messaging services.
+
+Finally, the application layer represents the cloud-based applications that end-users interact with. These applications can be web-based, mobile, or desktop applications that run on the cloud infrastructure and provide users with a range of services, such as file storage, communication, and collaboration tools.
