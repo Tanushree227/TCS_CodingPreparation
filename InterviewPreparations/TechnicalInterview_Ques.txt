@@ -309,4 +309,4 @@ v. Use caching: Caching is the process of storing frequently accessed data in me
 vi. Monitor and optimize: Finally, it is important to continuously monitor and optimize the scalability of the system. This involves monitoring the performance and resource usage of the system and identifying potential bottlenecks or issues. It also involves using optimization techniques, such as load testing, performance tuning, and capacity planning, to improve the scalability of the system.
 
 23. What is cloud computing and how does it differ from traditional IT infrastructure?
-Ans. 
+Ans. Cloud computing is a model of delivering computing resources and services over the internet, rather than using local servers or personal devices. Cloud computing allows users to access and use computing resources on demand, without the need to purchase and maintain expensive hardware and software.
