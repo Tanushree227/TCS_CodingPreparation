@@ -307,3 +307,6 @@ iii. Design for horizontal scalability: One way to improve the scalability of a 
 iv. Use load balancing: Another way to improve the scalability of a system is to use load balancing to distribute the workload among multiple resources. This can be done using load balancers that distribute incoming requests among a pool of servers, database shards that divide the data among multiple database servers, or content delivery networks (CDNs) that distribute static content among multiple servers.
 v. Use caching: Caching is the process of storing frequently accessed data in memory or on disk to improve the performance of the system. Using caching can help to reduce the load on the database and other resources, improving the scalability and performance of the system.
 vi. Monitor and optimize: Finally, it is important to continuously monitor and optimize the scalability of the system. This involves monitoring the performance and resource usage of the system and identifying potential bottlenecks or issues. It also involves using optimization techniques, such as load testing, performance tuning, and capacity planning, to improve the scalability of the system.
+
+23. What is cloud computing and how does it differ from traditional IT infrastructure?
+Ans. 
