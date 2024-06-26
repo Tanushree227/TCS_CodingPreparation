@@ -326,3 +326,6 @@ iii. Flexibility: Cloud computing allows users to access and use a wide range of
 iv. Reliability: Cloud computing provides users with high availability and reliability, as the resources and services are managed by the provider and are typically redundant and backed up. This reduces the risk of downtime and data loss.
 
 Some examples of cloud providers are Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform, IBM Cloud, Oracle Cloud, Alibaba Cloud, Heroku, Digital Ocean, etc. Each of these providers offers its own set of services, pricing models, and benefits.
+
+24. What are the limitations of inheritance?
+Ans. 
