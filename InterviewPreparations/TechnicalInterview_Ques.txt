@@ -331,7 +331,7 @@ Some examples of cloud providers are Amazon Web Services (AWS), Microsoft Azure,
 Ans. Inheritance can be a powerful tool in object-oriented programming, but it also has some limitations. Some of the limitations of inheritance are:
 
 i. Tight Coupling: Inheritance can lead to tight coupling between the base class and the derived class, which means that changes made in the base class can have unintended effects on the derived class.
-Inflexibility: Inheritance can be inflexible because once a subclass is created, it cannot be easily modified or extended.
+ii. Inflexibility: Inheritance can be inflexible because once a subclass is created, it cannot be easily modified or extended.
 Increased Complexity: Inheritance can make code more complex and harder to understand, especially if there are multiple levels of inheritance or if the inheritance is used excessively.
 Fragility: Changes to the base class can break the derived classes, and it can be difficult to predict the impact of those changes.
 Overuse: Inheritance can be overused, leading to complex and hard-to-maintain code. It is important to use inheritance judiciously and only when it is appropriate and necessary.
