@@ -333,7 +333,7 @@ Ans. Inheritance can be a powerful tool in object-oriented programming, but it a
 i. Tight Coupling: Inheritance can lead to tight coupling between the base class and the derived class, which means that changes made in the base class can have unintended effects on the derived class.
 ii. Inflexibility: Inheritance can be inflexible because once a subclass is created, it cannot be easily modified or extended.
 iii. Increased Complexity: Inheritance can make code more complex and harder to understand, especially if there are multiple levels of inheritance or if the inheritance is used excessively.
-Fragility: Changes to the base class can break the derived classes, and it can be difficult to predict the impact of those changes.
+iv. Fragility: Changes to the base class can break the derived classes, and it can be difficult to predict the impact of those changes.
 Overuse: Inheritance can be overused, leading to complex and hard-to-maintain code. It is important to use inheritance judiciously and only when it is appropriate and necessary.
 Inefficient Memory Usage: In some cases, inheritance can lead to inefficient memory usage, as objects may have redundant data or functionality.
 It is important to consider these limitations when using inheritance in object-oriented programming and to balance the benefits of inheritance against its potential drawbacks.
