@@ -335,5 +335,5 @@ ii. Inflexibility: Inheritance can be inflexible because once a subclass is crea
 iii. Increased Complexity: Inheritance can make code more complex and harder to understand, especially if there are multiple levels of inheritance or if the inheritance is used excessively.
 iv. Fragility: Changes to the base class can break the derived classes, and it can be difficult to predict the impact of those changes.
 v. Overuse: Inheritance can be overused, leading to complex and hard-to-maintain code. It is important to use inheritance judiciously and only when it is appropriate and necessary.
-Inefficient Memory Usage: In some cases, inheritance can lead to inefficient memory usage, as objects may have redundant data or functionality.
+vi. Inefficient Memory Usage: In some cases, inheritance can lead to inefficient memory usage, as objects may have redundant data or functionality.
 It is important to consider these limitations when using inheritance in object-oriented programming and to balance the benefits of inheritance against its potential drawbacks.
